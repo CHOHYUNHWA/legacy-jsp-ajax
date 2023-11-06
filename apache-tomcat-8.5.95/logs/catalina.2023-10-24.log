@@ -1,0 +1,96 @@
+24-Oct-2023 18:14:01.305 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/8.5.95
+24-Oct-2023 18:14:01.312 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Oct 12 2023 00:55:53 UTC
+24-Oct-2023 18:14:01.313 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  8.5.95.0
+24-Oct-2023 18:14:01.313 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Mac OS X
+24-Oct-2023 18:14:01.314 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     14.0
+24-Oct-2023 18:14:01.314 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          x86_64
+24-Oct-2023 18:14:01.314 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           /Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home
+24-Oct-2023 18:14:01.314 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          11.0.15+10-LTS
+24-Oct-2023 18:14:01.315 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Azul Systems, Inc.
+24-Oct-2023 18:14:01.315 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/tomatocho/apache-tomcat-8.5.95
+24-Oct-2023 18:14:01.315 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/tomatocho/apache-tomcat-8.5.95
+24-Oct-2023 18:14:01.317 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+24-Oct-2023 18:14:01.317 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+24-Oct-2023 18:14:01.317 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+24-Oct-2023 18:14:01.318 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-Oct-2023 18:14:01.318 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-Oct-2023 18:14:01.318 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=/Users/tomatocho/apache-tomcat-8.5.95/conf/logging.properties
+24-Oct-2023 18:14:01.318 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Oct-2023 18:14:01.318 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+24-Oct-2023 18:14:01.319 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+24-Oct-2023 18:14:01.319 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+24-Oct-2023 18:14:01.319 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dignore.endorsed.dirs=
+24-Oct-2023 18:14:01.319 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=/Users/tomatocho/apache-tomcat-8.5.95
+24-Oct-2023 18:14:01.319 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=/Users/tomatocho/apache-tomcat-8.5.95
+24-Oct-2023 18:14:01.320 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=/Users/tomatocho/apache-tomcat-8.5.95/temp
+24-Oct-2023 18:14:01.320 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 프로덕션 환경들에서 최적의 성능을 제공하는, APR 기반 Apache Tomcat Native 라이브러리가, 다음 java.library.path에서 발견되지 않습니다: [/Users/tomatocho/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+24-Oct-2023 18:14:01.373 정보 [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8080"]을(를) 초기화합니다.
+24-Oct-2023 18:14:01.420 정보 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 962 ms
+24-Oct-2023 18:14:01.502 정보 [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+24-Oct-2023 18:14:01.502 정보 [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/8.5.95]
+24-Oct-2023 18:14:01.521 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/docs]을(를) 배치합니다.
+24-Oct-2023 18:14:01.974 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/docs]에 대한 배치가 [449] 밀리초에 완료되었습니다.
+24-Oct-2023 18:14:01.975 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/manager]을(를) 배치합니다.
+24-Oct-2023 18:14:02.033 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/manager]에 대한 배치가 [58] 밀리초에 완료되었습니다.
+24-Oct-2023 18:14:02.033 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/examples]을(를) 배치합니다.
+24-Oct-2023 18:14:02.380 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/examples]에 대한 배치가 [347] 밀리초에 완료되었습니다.
+24-Oct-2023 18:14:02.380 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/ROOT]을(를) 배치합니다.
+24-Oct-2023 18:14:02.401 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/ROOT]에 대한 배치가 [21] 밀리초에 완료되었습니다.
+24-Oct-2023 18:14:02.401 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/host-manager]을(를) 배치합니다.
+24-Oct-2023 18:14:02.427 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/host-manager]에 대한 배치가 [26] 밀리초에 완료되었습니다.
+24-Oct-2023 18:14:02.433 정보 [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8080"]을(를) 시작합니다.
+24-Oct-2023 18:14:02.461 정보 [main] org.apache.catalina.startup.Catalina.start Server startup in 1040 ms
+24-Oct-2023 18:14:24.185 정보 [main] org.apache.catalina.core.StandardServer.await 셧다운 포트를 통해 유효한 셧다운 명령을 받았습니다. 서버 인스턴스를 중지시킵니다.
+24-Oct-2023 18:14:24.185 정보 [main] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8080"]을(를) 일시 정지 중
+24-Oct-2023 18:14:24.192 정보 [main] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+24-Oct-2023 18:14:24.224 정보 [main] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8080"]을(를) 중지시킵니다.
+24-Oct-2023 18:14:24.233 정보 [main] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8080"]을(를) 소멸시킵니다.
+24-Oct-2023 18:21:23.259 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/8.5.95
+24-Oct-2023 18:21:23.271 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Oct 12 2023 00:55:53 UTC
+24-Oct-2023 18:21:23.272 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  8.5.95.0
+24-Oct-2023 18:21:23.272 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Mac OS X
+24-Oct-2023 18:21:23.272 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     14.0
+24-Oct-2023 18:21:23.273 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          x86_64
+24-Oct-2023 18:21:23.273 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           /Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home
+24-Oct-2023 18:21:23.273 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          11.0.15+10-LTS
+24-Oct-2023 18:21:23.273 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Azul Systems, Inc.
+24-Oct-2023 18:21:23.274 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/tomatocho/apache-tomcat-8.5.95
+24-Oct-2023 18:21:23.274 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/tomatocho/apache-tomcat-8.5.95
+24-Oct-2023 18:21:23.276 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.lang=ALL-UNNAMED
+24-Oct-2023 18:21:23.276 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.io=ALL-UNNAMED
+24-Oct-2023 18:21:23.276 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util=ALL-UNNAMED
+24-Oct-2023 18:21:23.277 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-Oct-2023 18:21:23.277 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-Oct-2023 18:21:23.279 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=/Users/tomatocho/apache-tomcat-8.5.95/conf/logging.properties
+24-Oct-2023 18:21:23.279 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Oct-2023 18:21:23.279 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+24-Oct-2023 18:21:23.280 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+24-Oct-2023 18:21:23.280 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+24-Oct-2023 18:21:23.280 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dignore.endorsed.dirs=
+24-Oct-2023 18:21:23.280 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=/Users/tomatocho/apache-tomcat-8.5.95
+24-Oct-2023 18:21:23.280 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=/Users/tomatocho/apache-tomcat-8.5.95
+24-Oct-2023 18:21:23.280 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=/Users/tomatocho/apache-tomcat-8.5.95/temp
+24-Oct-2023 18:21:23.281 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 프로덕션 환경들에서 최적의 성능을 제공하는, APR 기반 Apache Tomcat Native 라이브러리가, 다음 java.library.path에서 발견되지 않습니다: [/Users/tomatocho/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+24-Oct-2023 18:21:23.336 정보 [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8080"]을(를) 초기화합니다.
+24-Oct-2023 18:21:23.395 정보 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 897 ms
+24-Oct-2023 18:21:23.483 정보 [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+24-Oct-2023 18:21:23.484 정보 [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/8.5.95]
+24-Oct-2023 18:21:23.501 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/SpringBoot]을(를) 배치합니다.
+24-Oct-2023 18:21:24.032 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/SpringBoot]에 대한 배치가 [528] 밀리초에 완료되었습니다.
+24-Oct-2023 18:21:24.033 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/docs]을(를) 배치합니다.
+24-Oct-2023 18:21:24.060 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/docs]에 대한 배치가 [28] 밀리초에 완료되었습니다.
+24-Oct-2023 18:21:24.060 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/manager]을(를) 배치합니다.
+24-Oct-2023 18:21:24.101 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/manager]에 대한 배치가 [41] 밀리초에 완료되었습니다.
+24-Oct-2023 18:21:24.102 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/examples]을(를) 배치합니다.
+24-Oct-2023 18:21:24.537 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/examples]에 대한 배치가 [435] 밀리초에 완료되었습니다.
+24-Oct-2023 18:21:24.538 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/ROOT]을(를) 배치합니다.
+24-Oct-2023 18:21:24.556 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/ROOT]에 대한 배치가 [18] 밀리초에 완료되었습니다.
+24-Oct-2023 18:21:24.556 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/host-manager]을(를) 배치합니다.
+24-Oct-2023 18:21:24.581 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [/Users/tomatocho/apache-tomcat-8.5.95/webapps/host-manager]에 대한 배치가 [25] 밀리초에 완료되었습니다.
+24-Oct-2023 18:21:24.587 정보 [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8080"]을(를) 시작합니다.
+24-Oct-2023 18:21:24.608 정보 [main] org.apache.catalina.startup.Catalina.start Server startup in 1212 ms
+24-Oct-2023 18:40:58.822 정보 [main] org.apache.catalina.core.StandardServer.await 셧다운 포트를 통해 유효한 셧다운 명령을 받았습니다. 서버 인스턴스를 중지시킵니다.
+24-Oct-2023 18:40:58.828 정보 [main] org.apache.coyote.AbstractProtocol.pause 프로토콜 핸들러 ["http-nio-8080"]을(를) 일시 정지 중
+24-Oct-2023 18:40:58.839 정보 [main] org.apache.catalina.core.StandardService.stopInternal 서비스 [Catalina]을(를) 중지시킵니다.
+24-Oct-2023 18:40:58.915 정보 [main] org.apache.coyote.AbstractProtocol.stop 프로토콜 핸들러 ["http-nio-8080"]을(를) 중지시킵니다.
+24-Oct-2023 18:40:58.925 정보 [main] org.apache.coyote.AbstractProtocol.destroy 프로토콜 핸들러 ["http-nio-8080"]을(를) 소멸시킵니다.
